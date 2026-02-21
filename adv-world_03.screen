@@ -1,0 +1,32 @@
+L                                                                               
+                                                                                
+                                                                                
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+W  $   W     * W       W  K  W           W          * W   K   W   W       -  WWW
+W      W     W     * * W    WWW    W    WWWWWWWWWWWWW    W       W   W       WWW
+W      * W     WWWWWWWWW     W    W !    W    W           W    WWWWWWWWW   W WWW
+WWWWWWWW     W     W             W    WWWWWWWW    W    @      W            W WWW
+W            W     W    WWWWWWWWWW                WWWWWWWWWWWWW    WWWWWWWWWWWWW
+W    WWWWWWWWW     W    W        WWWWWWWWWWWWWW                    W   * W   WWW
+W    W             W    W        W            W    WWWWWWWWWWWWWWWWW   W   @   W
+W    W    WWWWWWWWWW    * @    W            W    W*       W                  WWW
+W    W    W             W        W            W    W      W     WWWWWWWWWWWWWWWW
+W    W    W    WWWWWWWWWWWWWWWWWWW    WWWWWWWWW    W   K  W     W              W
+W    W    W    W    WWWWWWWWWWWWWWW        WWWW    WWWWWWWW     W   WWWWWWWW   W
+W    W    W    W    W                 W    W                * W    W  !   W    W
+W    W    * W    W      WWWWWW     W    W    WWWWWWWWWWWWW   W    W      W     W
+W    W    W    W    W      W    W     W    W    W               W    WWWWWWWW  W
+W    W    W    W    W      W    W     W    W    W    WWWWWWWWWWWW              W
+W    WWWWWW    W    WWWWWWWW    W     W    W    W    W          WWWWWWWWWWWWWWWW
+W              W                W     W    W    W    W   -      W      &       W
+W      WWWWWW ?                       W    W    W                  WWWWWWWWWWW?W
+W###   **    WWWWWWWWWWWWWWWWWWWWWWWWWW    W    WWWWWWWWWWWWWWWWWWWW           W
+W      W      4        W         d         W         D         W  8            W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+
+# DOOR CONFIGURATION
+# Format: [Door ID] [Keys Required] [Switches Required]
+4 1 1
+8 2 2

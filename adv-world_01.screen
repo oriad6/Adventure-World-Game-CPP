@@ -1,0 +1,33 @@
+L                                                                               
+
+                                                                               
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWDWWWWWWWWWWWWWWW
+WWW      W     W   *   WWWWWW     W   W    W                 W         W    WWWW
+WWW      W     W   *   WW         *   W    W                 W         W  K WWWW
+WWW K W**W**W**W   W   WW   W     W   W    *                 W         W    WWWW
+WWW   W     W      W   WW @ W     W   W  WWWWWWWWWWWWW       WWWWWW    *    WWWW
+WWW   W     W      W   WW   WWWWWWW  **  ##WWWWWWWWWWW       WWWWWWWW  *    WWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWW  -  W   W  WWWWWWWWWWWWW       WW   *    WWWWWWWWW
+WWWWW      W           WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW       WW   W       WWWWWW
+WWWWW    $ W  W @      WWWWWW               W    &           WW   W       WWWWWD
+W   *      W  WWWWWW   W                    W                WW   W       W    5
+W   W###   ***  WWWWWW?W - WW               W                     W     @ W   WW
+W   WWWWWWWWWWW        WWWWWW               W                    WWWWWWWW*W   WW
+W   W                  WWWWWW               W     WWWWWWWWW      WWWW     W   WW
+W 7 W               WWWWWWWWWWWWWWW         W  @  WWW  ! WW      WWWW     W   WW
+WWWWW                                      WWWWWWWWWW    WW               W   WW
+WWWWW                     WWW              W      WWW    WWWWW            *   WW
+WWWWWWWWWW  W   W         WWW         WWWWWWWWW   WWW    **   W           *   WW
+WWW      W  W   W         WWW               WWW   W###   *   WW   WWW*WWWWWWWWWW
+WWW      W  W @ W WWWWWWWWWWWWWWWWW    W    WWW   WWW    WW  WW*WWWW   WWWWWWWWW
+WWW      W  WWWWW WWWWWWWW !  WWWWW    W    WWW   WWW    WW  W    WW   ?    WWWW
+WWW   K  W               W             W          WWW    WW       WW   W       1
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+
+# DOOR CONFIGURATION
+# Format: [Door ID] [Keys Required] [Switches Required]
+1 1 0
+5 2 1
+7 0 2

@@ -1,0 +1,51 @@
+=====================================================================
+                    FILES FORMAT DOCUMENTATION
+=====================================================================
+
+1. Steps File Format (*.steps)
+------------------------------
+Used to record player inputs for deterministic replay.
+
+Structure:
+- Line 1: Random Seed (long)
+  * The seed used for srand() to ensure identical random events (riddles, ghosts) during replay.
+- Line 2: Step Count (size_t)
+  * Total number of recorded inputs.
+- Subsequent Lines: [Iteration] [Key]
+  * Iteration (size_t): The game loop cycle number when the key was pressed.
+  * Key (char): The actual character pressed by the user.
+
+Example:
+1705849201
+3
+10 w
+15 d
+100 i
+
+
+2. Results File Format (*.result)
+---------------------------------
+Used to validate the replay integrity by comparing critical game events required by the assignment.
+
+Structure:
+- Line 1: Event Count (size_t)
+- Subsequent Lines: [Iteration] [Event Code] [Extra Data]
+  * Iteration (size_t): Game cycle when the event occurred.
+  * Event Code (int): ID representing the type of event (see table below).
+  * Extra Data (string): Additional info required for the specific event type (e.g., riddle details).
+
+Event Codes & Data Format:
+--------------------------
+Code | Event Description       | Extra Data Content
+-----|-------------------------|-----------------------------------------------------------
+  1  | Level Transition        | The filename of the next level (e.g., "adv-world_02.screen")
+  2  | Life Lost               | (Empty / None)
+  3  | Riddle Result           | Format: "Riddle: [Question] | Answer: [Char] | Result: [Correct/Wrong]"
+  4  | Game Finished           | Format: "Score: [Final Score]"
+
+Example Content:
+4
+50 2
+120 3 Riddle: What is 2+2? | Answer: B | Result: Correct
+200 1 adv-world_02.screen
+500 4 Score: 150

@@ -1,0 +1,36 @@
+What is the difference between struct and class in C++?
+Struct members are private by default, Class are public
+Struct is for POD only, Class is for logic
+Struct members are public by default, Class are private
+There is no difference at all
+C
+Which of the following is NOT a standard C++ STL container?
+std::vector
+std::list
+std::dictionary
+std::map
+C
+When is a Copy Constructor called?
+When an object is assigned to another using '='
+When an object is passed by value to a function
+When an object is deleted using 'delete'
+When the program finishes its execution
+B
+Which STL container is best for fast insertion at the end?
+std::list
+std::map
+std::vector
+std::set
+C
+What is the primary purpose of a Constructor in C++?
+To delete an object from memory
+To initialize the data members of a new object
+To allow a class to be inherited
+To print the object's address to the console
+B
+In C++, what is the primary difference between an lvalue and an rvalue?
+lvalues are always on the left side of an assignment, rvalues are on the right
+An lvalue refers to a memory location (addressable), while an rvalue is a temporary value
+lvalues are for integers, rvalues are for floating-point numbers
+lvalues cannot be modified, while rvalues can
+B
