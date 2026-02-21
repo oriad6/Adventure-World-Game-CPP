@@ -46,11 +46,5 @@ The project follows strict **Object-Oriented Design (OOD)** principles:
 
 ---
 
-## 👥 Authors
-* [cite_start]**Ben Pitkovsky** [cite: 1]
+## 👥 Author
 * [cite_start]**Ori Adani** [cite: 1]
-
----
-
-### 📝 Technical Note
-*This project represents a deep dive into C++ systems. [cite_start]During development, we successfully resolved a complex synchronization bug in the file validation mechanism during 'Load' mode, ensuring 100% accuracy between recorded sessions and playback results[cite: 2, 3, 4].*
